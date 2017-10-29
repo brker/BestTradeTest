@@ -48,7 +48,7 @@ public class ViewItem extends javax.swing.JFrame {
             }
         });
 
-        Category.setText("Category");
+        Category.setText("Category1");
 
         Price.setText("Price");
 
@@ -105,7 +105,7 @@ public class ViewItem extends javax.swing.JFrame {
                                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(PriceText)
                                     .addComponent(ConditionText))))
-                        .addContainerGap(64, Short.MAX_VALUE))
+                        .addContainerGap(58, Short.MAX_VALUE))
                     .addComponent(DescriptionText, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
         );
         layout.setVerticalGroup(
