@@ -14,4 +14,7 @@ public class Database {
     public Database(){
     System.out.println("Hellfvdffdgbsgdbgrgo");
     }
+    int x = 10;
+    int y  = 10;
+    int l = 15;
 }
