@@ -18,4 +18,6 @@ public class Database {
     int y  = 10;
     int l = 15;
     int t = 45;
+    String a = " ozr was here ";
 }
+
