@@ -17,4 +17,5 @@ public class Database {
     int x = 10;
     int y  = 10;
     int l = 15;
+    int t = 45;
 }
